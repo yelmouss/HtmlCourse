@@ -1,7 +1,12 @@
 #MyTitle {
     text-align: center;
+    color: white;
 }
 
 .MyTitle{
     color: blue;
+}
+
+body {
+    background-color: black;
 }
